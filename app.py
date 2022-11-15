@@ -283,7 +283,7 @@ def main():
             else:
                 print("Couldn't find the contact")
         display_menu()
-        user_input = input("What to do?\n")
+        user_input = input("What to do? ")
 
     save_to_file()
 
